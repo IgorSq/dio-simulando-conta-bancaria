@@ -8,7 +8,7 @@ public class ContaTerminal {
         //TODO: Exibir as menasagens
         //obter os valores do usuário
         //exibir a conta criada
-        Locale.setDefault(Locale.BRAZIL);
+        Locale.setDefault(Locale.US);
 
         Scanner sc = new Scanner(System.in);
 
